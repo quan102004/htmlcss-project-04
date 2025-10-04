@@ -83,7 +83,19 @@ button {
     border-radius: 50%;
     background: #fff;
 }
+.section-heading {
+    font-weight: 700;
+    font-size: 5.2rem;
+    line-height: 1.19;
+    color: #000958;
+}
 
+.section-desc {
+    margin-top: 24px;
+    font-size: 1.6rem;
+    line-height: 1.88;
+    color: #656689;
+}
 /* Header */
 .header {
     padding: 26px 0;
